@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="j5gSquaxgz9Bm_6g_puI">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Y7tR6Be32WsSaSLyRP0B-0" />
+        <mxCell id="Y7tR6Be32WsSaSLyRP0B-1" parent="Y7tR6Be32WsSaSLyRP0B-0" />
+        <mxCell id="KcNsghF1zCoy5NGYHSgB-0" parent="Y7tR6Be32WsSaSLyRP0B-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inicio&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KcNsghF1zCoy5NGYHSgB-1" edge="1" parent="Y7tR6Be32WsSaSLyRP0B-1" source="KcNsghF1zCoy5NGYHSgB-0" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="414" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcNsghF1zCoy5NGYHSgB-2" parent="Y7tR6Be32WsSaSLyRP0B-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ler kmI, kmF, litros" vertex="1">
+          <mxGeometry height="60" width="250" x="290" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KcNsghF1zCoy5NGYHSgB-3" edge="1" parent="Y7tR6Be32WsSaSLyRP0B-1" source="KcNsghF1zCoy5NGYHSgB-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="414" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcNsghF1zCoy5NGYHSgB-4" parent="Y7tR6Be32WsSaSLyRP0B-1" style="rounded=0;whiteSpace=wrap;html=1;" value="flitros.aos.100=litros*100(kmF-kmI" vertex="1">
+          <mxGeometry height="60" width="250" x="290" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="KcNsghF1zCoy5NGYHSgB-5" edge="1" parent="Y7tR6Be32WsSaSLyRP0B-1" source="KcNsghF1zCoy5NGYHSgB-4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="KcNsghF1zCoy5NGYHSgB-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="412" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KcNsghF1zCoy5NGYHSgB-6" parent="Y7tR6Be32WsSaSLyRP0B-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="fim&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
